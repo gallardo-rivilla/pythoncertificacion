@@ -9,9 +9,13 @@ PCEP - La certificación de Programador Python de nivel de entrada certificado m
 
 
 ⚡ Módulo 1.	Introducción a Python y a la programación
+
 ⚡ Módulo 2.	Tipos de datos, variables, operaciones básicas de entrada y salida, operadores básicos
+
 ⚡ Módulo 3.	Valores booleanos, ejecución condicional, bucles, listas y procesamiento de listas, operaciones lógicas y bit a bit
+
 ⚡ Módulo 4.	Funciones, tuplas, diccionarios y procesamiento de datos
+
 
 
 ✔ PCAP - Asociado certificado en programación Python
@@ -24,6 +28,9 @@ La certificación PCAP - Certified Associate in Python Programming le da confian
 -----------------------------------------------------------------
 
 •	La certificación PCEP (nivel de entrada) no es un requisito previo para las certificaciones PCAP (asociado) o PCPP (profesional).
+
 •	El candidato que desee obtener una credencial de nivel profesional (PCPP-32-1xx y PCPP-32-2xx) ya debe tener una credencial de nivel asociado (PCAP), lo que significa que la certificación PCAP es un requisito previo para el PCPP. Certificación .
+
 •	La certificación PCPP1 (PCPP1 - Certified Professional in Python Programming 1) es un requisito previo para la certificación PCPP2 (PCPP2 - Certified Professional in Python Programming 2).
+
 •	Todas las certificaciones de OpenEDG Python Institute son válidas de por vida y no es necesario renovarlas.
