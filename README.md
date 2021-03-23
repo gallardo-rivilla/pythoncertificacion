@@ -12,9 +12,9 @@ PCEP - La certificación de Programador Python de nivel de entrada certificado m
 
 ⚡ Módulo 1.	Introducción a Python y a la programación
 
-⚡ Módulo 2.	Tipos de datos, variables, operaciones básicas de entrada y salida, operadores básicos
+⚡ [Módulo 2.	Tipos de datos, variables, operaciones básicas de entrada y salida, operadores básicos](https://github.com/gallardo-rivilla/pythoncertificacion/blob/main/PCEP/Modulo2.ipynb)
 
-⚡ Módulo 3.	Valores booleanos, ejecución condicional, bucles, listas y procesamiento de listas, operaciones lógicas y bit a bit
+⚡ [Módulo 3.	Valores booleanos, ejecución condicional, bucles, listas y procesamiento de listas, operaciones lógicas y bit a bit](https://github.com/gallardo-rivilla/pythoncertificacion/blob/main/PCEP/Modulo3.ipynb)
 
 ⚡ Módulo 4.	Funciones, tuplas, diccionarios y procesamiento de datos
 
