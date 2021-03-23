@@ -1,13 +1,13 @@
 # Python Certificacion Institute
 
-![PYTHON](https://i.pinimg.com/originals/57/b0/54/57b05419a7929de0dda06eaa7259cb84.png)
+
 
 
 👉 Material para obtener las certificaciones de python institute
 -----------------------------------------------------------------
-
-![PYTHON INSTITUTE](https://www.pue.es/Areas/Education/Resources/Images/Sections/Programs/Python/Python-institute-logo.png)
-
+<center>
+![PYTHON INSTITUTE](https://www.pue.es/Areas/Education/Resources/Images/Sections/Programs/Python/Python-institute-logo.png) ![PYTHON](https://i.pinimg.com/originals/57/b0/54/57b05419a7929de0dda06eaa7259cb84.png)
+</center>
 ✔ PCEP - Programador Python de nivel de entrada certificado
 
 PCEP - La certificación de Programador Python de nivel de entrada certificado muestra que el individuo está familiarizado con los conceptos de programación informática universales como tipos de datos, contenedores, funciones, condiciones, bucles, así como la sintaxis, la semántica y el entorno de ejecución del lenguaje de programación Python.
