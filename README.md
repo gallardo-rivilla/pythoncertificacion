@@ -12,7 +12,7 @@
 PCEP - La certificación de Programador Python de nivel de entrada certificado muestra que el individuo está familiarizado con los conceptos de programación informática universales como tipos de datos, contenedores, funciones, condiciones, bucles, así como la sintaxis, la semántica y el entorno de ejecución del lenguaje de programación Python.
 
 
-⚡ [Módulo 1.	Introducción a Python y a la programación](https://github.com/gallardo-rivilla/pythoncertificacion/blob/main/PCEP/Modulo 1.ipynb)
+⚡ [Módulo 1.	Introducción a Python y a la programación](https://github.com/gallardo-rivilla/pythoncertificacion/blob/main/PCEP/Modulo1.ipynb)
 
 ⚡ [Módulo 2.	Tipos de datos, variables, operaciones básicas de entrada y salida, operadores básicos](https://github.com/gallardo-rivilla/pythoncertificacion/blob/main/PCEP/Modulo2.ipynb)
 
